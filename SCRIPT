@@ -7,7 +7,7 @@ function LoadMe(link)
     loadstring(game:HttpGet(link))()
 end
 Gamer:Button("Blue Script (Best)", function()
-	getgenv().Key = "BETASTAGEOUT"
+	getgenv().Key = "EPICGUIMAYBE"
     loadstring(game:HttpGet("https://raw.githubusercontent.com/SupBabe/YBAHOPPER/main/YBAv2.lua"))()
 end)
 Gamer:Button("XENON HUB GUI", function()
